@@ -11,16 +11,24 @@ The website aims to give users a relaxed browsing experince and provide them wit
 ### Features ###
 
 -Simple and Clear Navigation
+
 -Multiple html pages
+
 -Informative content on pet care services
+
 -Contact Information
+
 -Enquiry Form
+
 -User-friendly
+
 -Consistent Layout
 
 ### Technologies Used ###
 
 -Visual Studio Code
+
 -HTML
+
 -GitHub
 
