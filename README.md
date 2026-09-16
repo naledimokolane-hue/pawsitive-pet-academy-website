@@ -4,7 +4,7 @@
 
 ### Description ###
 
-The Pasitive Pet Academy website is an easy-to-use basic multi-page based website designed to provide information about the 
+The Pawsitive Pet Academy website is an easy-to-use, basic multi-page based website designed to provide information about the 
 training academy and its services.
 The website aims to give users a relaxed browsing experince and provide them with the necessary information.
 
